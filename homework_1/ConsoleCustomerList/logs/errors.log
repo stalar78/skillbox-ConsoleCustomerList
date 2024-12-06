@@ -1,0 +1,8 @@
+2024-12-04 10:13:44 [main] ERROR: Error adding customer: Invalid number of components in input data.
+2024-12-04 10:13:44 [main] ERROR: Error adding customer: Invalid number of components in input data.
+2024-12-04 10:13:44 [main] ERROR: Error adding customer: Invalid email format: thisIsNotAnEmail
+2024-12-04 10:13:44 [main] ERROR: Error adding customer: Invalid phone format: +thisIsNotANumber
+2024-12-04 10:18:34 [main] ERROR: Error adding customer: Invalid number of components in input data. Expected 4 but got 5
+2024-12-04 10:18:34 [main] ERROR: Error adding customer: Invalid number of components in input data. Expected 4 but got 3
+2024-12-04 10:18:34 [main] ERROR: Error adding customer: Invalid email format: thisIsNotAnEmail
+2024-12-04 10:18:34 [main] ERROR: Error adding customer: Invalid phone format: +thisIsNotANumber
